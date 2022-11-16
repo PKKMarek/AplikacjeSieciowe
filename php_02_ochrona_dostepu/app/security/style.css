@@ -1,0 +1,11 @@
+body
+{
+    text-align: center;
+    background-color:pink;
+}
+div
+{
+    height:150px;
+    background-color:grey;
+    text-align: center;
+}
